@@ -55,3 +55,7 @@ The model used in this application is a Convolutional Neural Network (CNN) with 
 <img width="540" alt="Screenshot 2023-08-03 at 8 56 16 PM" src="https://github.com/Joseph2718/Cifar10-Image-Classifier/assets/67449339/693ab3e6-ca33-4f60-8232-48e72db91459">
 <img width="546" alt="Screenshot 2023-08-03 at 8 57 02 PM" src="https://github.com/Joseph2718/Cifar10-Image-Classifier/assets/67449339/f97f1e1e-f91d-433b-b09a-4f2ece7bf1c4">
 
+## Acknowledgements
+Many thanks to Neuralnine on YouTube for presenting this idea! I was inspired to take the simple model presented and figured I'd augment and build upon it by incorporating a CNN to heavily improve the accuracy of the image detection (about twice as accurate!)
+improve the accuracy of the image detection 
+
