@@ -56,5 +56,5 @@ The model used in this application is a Convolutional Neural Network (CNN) with 
 <img width="546" alt="Screenshot 2023-08-03 at 8 57 02 PM" src="https://github.com/Joseph2718/Cifar10-Image-Classifier/assets/67449339/f97f1e1e-f91d-433b-b09a-4f2ece7bf1c4">
 
 ## Acknowledgements
-Many thanks to Neuralnine on YouTube for presenting this idea! I was inspired to take the simple model presented and figured I'd augment and build upon it by incorporating a CNN to heavily improve the accuracy of the image detection (about twice as accurate!)
+Many thanks to Neuralnine on YouTube for presenting this idea! I was inspired to take the simple model presented and figured I'd augment and build upon it by incorporating a CNN to heavily improve the accuracy of the image detection (about twice as accurate!) Future augmentations to come: expanding the CIFAR-10 dataset to the CIFAR-100 dataset and displaying probabilistic predictions in a seamless manner given the tenfold increase in categories
 
