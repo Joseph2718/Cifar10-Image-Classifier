@@ -1,4 +1,4 @@
-# CIFAR-10 Image Classifier
+# CIFAR-10 Image Classifier (Streamlit Web App)
 
 This project is a web application for image classification on the CIFAR-10 dataset. It uses a Convolutional Neural Network (CNN) model trained on the CIFAR-10 dataset to classify images into one of 10 classes: 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', and 'truck'. The web interface for the application is built using Streamlit.
 
