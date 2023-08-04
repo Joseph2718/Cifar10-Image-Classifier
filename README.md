@@ -57,5 +57,4 @@ The model used in this application is a Convolutional Neural Network (CNN) with 
 
 ## Acknowledgements
 Many thanks to Neuralnine on YouTube for presenting this idea! I was inspired to take the simple model presented and figured I'd augment and build upon it by incorporating a CNN to heavily improve the accuracy of the image detection (about twice as accurate!)
-improve the accuracy of the image detection 
 
